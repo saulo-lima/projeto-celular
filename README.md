@@ -29,6 +29,9 @@ No centro da tela, um `iframe` exibe diferentes páginas, que mudam conforme o u
 O objetivo foi praticar conceitos fundamentais de HTML e CSS, focando em estruturação, navegação e estilização.
 
 ---
+##  Acesse o projeto 
+https://saulo-lima.github.io/projeto-celular/
+---
 
 ## 🎮 Como funciona
 
